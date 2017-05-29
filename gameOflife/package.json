@@ -1,0 +1,14 @@
+{
+  "name": "gameoflife",
+  "version": "1.0.0",
+  "description": "implementation of game of life",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Riteek Srivastav",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
